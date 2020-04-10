@@ -36,7 +36,7 @@ let sheep = prompt("How many sheep would you like?");//request user for number o
 let i; //set index
 if (sheep >= 1) { 
     for (i = 1; i <= sheep; i ++) {
-    document.write(`<p>${i} Sheep`);
+    document.write(`<p>${i} Sheep</p>`);
 }   
 } else { 
     alert(`Ooops! That doesn´t look right`);   
