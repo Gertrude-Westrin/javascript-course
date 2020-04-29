@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: #f0e8e9b6;
+}
+
+.modalContent {
+    background-color: whitesmoke;
+    margin: 10%;
+    width: 80%;
+    border-radius: 10px;
+    border: 10px #de5d83;
+}
+
+.closeButton {
+    font-size: 25px;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.closeButton:hover {
+    background-color: #fadadd;
+}
+
+.modalHeading {
+    text-align: center;
+}
+
+
