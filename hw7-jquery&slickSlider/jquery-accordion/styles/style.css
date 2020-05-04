@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+}
+
+.accordion-background {
+    background-color: #F6704B;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;  
+}
+
+.accordion-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center; 
+}
+
+.location-wrapper {
+    background-color: #620808;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.locationHeading {
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    line-height: 24px;
+    color: #FFE9C1;
+}
+
+.locationText {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 14px;
+    color: #FFE9C1;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-content: center; 
+}
+
+.music-wrapper {
+    background-color: #A53F3F;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.musicHeading {
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    line-height: 24px;
+    color: #F4CE74;
+}
+
+.musicText {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 14px;
+    color: #F4CE74;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-content: center;
+}
+
+.notes-wrapper {
+    background-color: #F4CE74;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notesHeading {
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    line-height: 24px;
+    color: #620808;
+}
+
+.notesText {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 14px;
+    color: #620808;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-content: center;
+}
+
+.books-wrapper {
+    background-color:  #FFE9C1;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.booksHeading{
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    line-height: 24px;
+    color: #620808;
+}
+
+.booksText {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 14px;
+    color: #620808;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-content: center;
+}
+
+.tendancies-wrapper {
+    background-color: #D5441C;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.tendanciesHeading {
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    line-height: 24px;
+    color: #FFE9C1;
+}
+
+.tendanciesText {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 14px;
+    color: #FFE9C1;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-content: center;
+}
